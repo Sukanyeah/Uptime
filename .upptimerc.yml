@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Sukanyeah.com
     url: https://www.sukanyeah.com
+  - name: 1Account.org
+    url: https://www.1account.org
   - name: Sukanyeah Blog
     url: https://ml.sukanyeah.com
   - name: Sukanyeah No Hello
@@ -25,7 +27,7 @@ status-website:
   cname: status.sukanyeah.com
   # baseUrl: /your-repo-name
   logoUrl: https://d15a02u2vz5xwk.cloudfront.net/mSlUdQrdFuKV4JOz/logos/sukanyeah_fly.svg
-  name:
+  name: Sukanyeah
   introTitle: "**Sukanyeah** Uptime Status."
   introMessage:
   navbar:
