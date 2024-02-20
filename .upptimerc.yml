@@ -1,16 +1,14 @@
 # Change these first
 owner: Sukanyeah # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Sukanyeah.com
+    url: https://www.sukanyeah.com
+  - name: Sukanyeah.in
+    url: https://www.sukanyeah.in
+  - name: Syah.in
+    url: https://www.syah.in
   - name: IPv6 test
     url: forwardemail.net
     port: 80
@@ -30,7 +28,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
