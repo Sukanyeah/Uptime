@@ -4,9 +4,9 @@
     "url": "https://www.sukanyeah.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sukanyeah.com.ico",
     "slug": "sukanyeah-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 760,
     "timeMonth": 760,
     "timeYear": 760,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "1Account.org",
     "url": "https://www.1account.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.1account.org.ico",
     "slug": "1-account-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 796,
     "timeMonth": 796,
     "timeYear": 796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "Sukanyeah Blog",
     "url": "https://ml.sukanyeah.com",
     "icon": "https://icons.duckduckgo.com/ip3/ml.sukanyeah.com.ico",
     "slug": "sukanyeah-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 1008,
     "timeMonth": 1008,
     "timeYear": 1008,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "Sukanyeah No Hello",
     "url": "https://nohello.sukanyeah.com",
     "icon": "https://icons.duckduckgo.com/ip3/nohello.sukanyeah.com.ico",
     "slug": "sukanyeah-no-hello",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 1226,
     "timeMonth": 1226,
     "timeYear": 1226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "Sukanyeah.in",
     "url": "https://www.sukanyeah.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.sukanyeah.in.ico",
     "slug": "sukanyeah-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +95,18 @@
     "timeWeek": 1473,
     "timeMonth": 1473,
     "timeYear": 1473,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "Syah.in",
     "url": "https://www.syah.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.syah.in.ico",
     "slug": "syah-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +115,8 @@
     "timeWeek": 718,
     "timeMonth": 718,
     "timeYear": 718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   }
 ]
