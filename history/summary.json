@@ -4,9 +4,9 @@
     "url": "https://www.sukanyeah.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sukanyeah.com.ico",
     "slug": "sukanyeah-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
@@ -16,6 +16,7 @@
     "timeMonth": 776,
     "timeYear": 782,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-02-27": 825,
       "2024-02-26": 205
     }
@@ -25,9 +26,9 @@
     "url": "https://www.1account.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.1account.org.ico",
     "slug": "1-account-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
@@ -37,6 +38,7 @@
     "timeMonth": 885,
     "timeYear": 862,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-02-27": 992,
       "2024-02-26": 205
     }
@@ -46,18 +48,19 @@
     "url": "https://ml.sukanyeah.com",
     "icon": "https://icons.duckduckgo.com/ip3/ml.sukanyeah.com.ico",
     "slug": "sukanyeah-blog",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 1019,
     "timeDay": 1028,
     "timeWeek": 1040,
     "timeMonth": 1005,
     "timeYear": 1019,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-02-27": 988,
       "2024-02-26": 205
     }
@@ -67,9 +70,9 @@
     "url": "https://nohello.sukanyeah.com",
     "icon": "https://icons.duckduckgo.com/ip3/nohello.sukanyeah.com.ico",
     "slug": "sukanyeah-no-hello",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
@@ -79,6 +82,7 @@
     "timeMonth": 1250,
     "timeYear": 1251,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-02-27": 993,
       "2024-02-26": 205
     }
@@ -88,9 +92,9 @@
     "url": "https://www.sukanyeah.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.sukanyeah.in.ico",
     "slug": "sukanyeah-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
@@ -100,6 +104,7 @@
     "timeMonth": 1508,
     "timeYear": 1510,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-02-27": 993,
       "2024-02-26": 205
     }
@@ -109,9 +114,9 @@
     "url": "https://www.syah.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.syah.in.ico",
     "slug": "syah-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
@@ -121,6 +126,7 @@
     "timeMonth": 761,
     "timeYear": 754,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-02-27": 992,
       "2024-02-26": 205
     }
