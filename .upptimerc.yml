@@ -15,6 +15,12 @@ sites:
     url: https://www.sukanyeah.in
   - name: Syah.in
     url: https://www.syah.in
+  - name: Sukanyeah Solar
+    url: https://solar.sukanyeah.com
+  - name: CloudWhiz.co.in
+    url: https://www.cloudwhiz.co.in
+  - name: CloudWhiz.org.in
+    url: https://www.cloudwhiz.org.in
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
@@ -26,7 +32,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.sukanyeah.com
   # baseUrl: /your-repo-name
-  logoUrl: https://d15a02u2vz5xwk.cloudfront.net/mSlUdQrdFuKV4JOz/logos/sukanyeah_fly.svg
+  logoUrl: https://img.syah.in/mSlUdQrdFuKV4JOz/logos/sukanyeah_fly.svg
   name: Sukanyeah
   introTitle: "**Sukanyeah** Uptime Status."
   introMessage:
