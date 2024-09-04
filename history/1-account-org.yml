@@ -1,7 +1,7 @@
 url: https://www.1account.org
-status: up
-code: 200
-responseTime: 1688
-lastUpdated: 2024-09-04T07:21:33.379Z
+status: down
+code: 500
+responseTime: 803
+lastUpdated: 2024-09-04T07:37:07.299Z
 startTime: 2024-02-20T17:51:06.461Z
 generator: Upptime <https://github.com/upptime/upptime>
