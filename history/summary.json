@@ -40,11 +40,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.1account.org.ico",
     "slug": "1-account-org",
     "status": "up",
-    "uptime": "96.04%",
+    "uptime": "96.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "82.81%",
-    "uptimeYear": "96.04%",
+    "uptimeYear": "96.05%",
     "time": 877,
     "timeDay": 822,
     "timeWeek": 840,
@@ -223,9 +223,9 @@
     "url": "https://www.cloudwhiz.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudwhiz.co.in.ico",
     "slug": "cloud-whiz-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -235,6 +235,7 @@
     "timeMonth": 1164,
     "timeYear": 1312,
     "dailyMinutesDown": {
+      "2024-11-14": 0,
       "2024-09-13": 54,
       "2024-06-03": 16
     }
