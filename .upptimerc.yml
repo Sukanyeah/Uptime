@@ -17,10 +17,10 @@ sites:
     url: https://www.syah.in
   - name: Sukanyeah Solar
     url: https://solar.sukanyeah.com
-  - name: CloudWhiz.co.in
-    url: https://www.cloudwhiz.co.in
-  - name: CloudWhiz.org.in
-    url: https://www.cloudwhiz.org.in
+  - name: Short URL System
+    url: https://go.syah.in
+  - name: Short URL System (SK)
+    url: https://go.sukanyeah.com
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
